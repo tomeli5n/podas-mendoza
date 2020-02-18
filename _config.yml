@@ -17,6 +17,8 @@ keep_files:
 title: Podas Mendoza
 subtitle: "Corte de árboles y poda de palmeras en Mendoza"
 url: "https://podasmendoza.com.ar" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: ""
 cover: "/assets/cover.png"
@@ -38,3 +40,4 @@ descriptions:
 
   - cat: servicios
     desc: "Listado de servicios"
+
