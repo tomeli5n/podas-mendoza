@@ -74,6 +74,7 @@ header .navbar {
 }
 header .navbar-brand {
   padding-top: 5px;
+  margin-top: -20px;
 }
 header .navbar-default {
   background: none;
@@ -192,6 +193,9 @@ font header .navbar-default .navbar-nav li a:hover {
   margin: 0;
   font-size: 14px;
   line-height: 1.8;
+}
+.round{
+  border-radius: 50%;
 }
 /*--
 	call-to-action Start
